@@ -12,8 +12,8 @@ The data is available from 22 Jan, 2020
 ## Exploratory Data Analysis
 Some insights from the analysis would be 
 
-1.Changes in number of affected cases over time
-2.Change in cases over time at country level
-3.Latest number of affected cases
-4.Changes in the spread overtime between china and other countries
-5.Number of countries most affected by the virus
+1. Changes in number of affected cases over time
+2. Change in cases over time at country level
+3. Latest number of affected cases
+4. Changes in the spread overtime between china and other countries
+5. Number of countries most affected by the virus
