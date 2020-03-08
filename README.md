@@ -17,3 +17,7 @@ Some insights from the analysis would be
 3. Latest number of affected cases
 4. Changes in the spread overtime between china and other countries
 5. Number of countries most affected by the virus
+
+## Rendering the Jupyter Notebook
+As the graphs are plotted in  plotly, the graphs are not rendered in the gihub page. After uploading the notebook in github copy the URL of the file and paste it in [nbviewer](https://nbviewer.jupyter.org/). This renders the plotly graphs.
+Find the complete output of the graphs [here](https://nbviewer.jupyter.org/github/Alinahuda/Coronavirus-EDA/blob/master/coronavirus.ipynb)
